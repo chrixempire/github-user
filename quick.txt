@@ -1,0 +1,58 @@
+avatar_url: "https://avatars.githubusercontent.com/u/315427?v=4"
+bio: null
+blog: "http://agambrahma.com"
+company: null
+created_at: "2010-06-26T21:38:34Z"
+email: null
+events_url: "https://api.github.com/users/agam/events{/privacy}"
+followers: 18
+followers_url: "https://api.github.com/users/agam/followers"
+following: 328
+following_url: "https://api.github.com/users/agam/following{/other_user}"
+gists_url: "https://api.github.com/users/agam/gists{/gist_id}"
+gravatar_id: ""
+hireable: null
+html_url: "https://github.com/agam"
+id: 315427
+location: "Mountain View, CA"
+login: "agam"
+name: "Agam Brahma"
+node_id: "MDQ6VXNlcjMxNTQyNw=="
+organizations_url: "https://api.github.com/users/agam/orgs"
+public_gists: 134
+public_repos: 62
+received_events_url: "https://api.github.com/users/agam/received_events"
+repos_url: "https://api.github.com/users/agam/repos"
+site_admin: false
+starred_url: "https://api.github.com/users/agam/starred{/owner}{/repo}"
+subscriptions_url: "https://api.github.com/users/agam/subscriptions"
+twitter_username: null
+type: "User"
+updated_at: "2022-06-22T23:20:20Z"
+url: "https://api.github.com/users/agam"
+[[Prototype]]: Object
+﻿
+
+  <div class="mobile-info">
+            <div class="user-img" >
+                <img id="user-image" src="man.jfif" alt="">
+            </div>
+            <div class="personal">
+                <div class="nam">
+                    <h2 id="name">The Octocat</h2>
+                    <p class="nick-name" id="login">aoctocat</p>
+                </div>
+                <div class="joined">
+                    <h3 id="joined">
+                        joined 25 jan 2011
+                    </h3>
+                </div>
+
+            </div> 
+            <div class="about">
+            <p id="about">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, facere.</p>
+
+            </div>
+
+        </div>
+
