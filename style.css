@@ -456,15 +456,15 @@ i{
         display: flex;
         align-items: center;
         justify-content: space-evenly;
-        width: 85%;
+        width: 87%;
         height: 100px;
         margin-left:0px;
-        padding: 20px 20px 20px 40px;
+        padding: 20px 20px 20px 20px;
         border-radius: 10px;
         margin-top: 30px;
-        margin-right: 0px;
         margin: auto;
         gap: 35px;
+        /* border: 1px solid red; */
     
     }
     .repos{
